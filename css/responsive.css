@@ -1,0 +1,519 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+    /* CSS */
+    /* header start */
+    /* header end */
+
+    /* our chef start */
+    /* our chef end */
+
+    /* best-burger start */
+    /* best-burger end */
+
+    /* big-burger start */
+    /* big-burger end */
+
+    /* Statistics start */
+    /* Statistics end */
+     /* Popular Package start */
+     .popular-Package-box{
+        margin-bottom: 30px;
+    }
+    .popular-Package-box .btn-danger{
+        padding: 15px 70px;
+    }
+    .popular-Package-box p{
+        font-size: 20px;
+        line-height: 25px;
+    }
+    /* Popular Package end */
+
+    /* Barry start */
+    /* Barry end */
+
+    /* our-update start */
+    /* our-update end */
+  }
+  
+  /* 
+    ##Device = Laptops, Desktops
+    ##Screen = B/w 1025px to 1280px
+  */
+  
+  @media (min-width: 1025px) and (max-width: 1280px) {
+    
+    /* CSS */
+    /* header start */
+    /* header end */
+
+    /* our chef start */
+    /* our chef end */
+
+    /* best-burger start */
+    /* best-burger end */
+
+    /* big-burger start */
+    /* big-burger end */
+
+    /* Statistics start */
+    .statistics .statistics-box{
+        padding: 45px 0px;
+    }
+    /* Statistics end */
+    /* Popular Package start */
+    .popular-Package-box{
+        margin-bottom: 30px;
+    }
+    .popular-Package-box .btn-danger{
+        padding: 15px 70px;
+    }
+    .popular-Package-box p{
+        font-size: 20px;
+        line-height: 25px;
+    }
+    /* Popular Package end */
+
+    /* Barry start */
+    /* Barry end */
+
+    /* our-update start */
+    /* our-update end */
+    /* footer start */
+    /* footer end */
+
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+    
+    /* CSS */
+    /* header start */
+    .header .navbar-light .navbar-nav .nav-link{
+        margin-left: 0px;
+    }
+    .navbar-collapse{
+        margin-top: 15px;
+    }
+    /* header end */
+    /* our chef start */
+    .our-chef .our-chef-title p{
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .our-chef .our-chef-card{
+        margin-bottom: 30px;
+    }
+    /* our chef end */
+    /* best-burger start */
+    .best-burger-img{
+        text-align: center;
+    }
+    .best-burger-left{
+        text-align: center;
+    }
+    /* best-burger end */
+    /* big-burger start */
+    .big-burger-right{
+        text-align: center;
+        margin-top: 30px;
+    }
+    .big-burger-left{
+        text-align: center;
+    }
+     /* big-burger end */
+     /* Statistics start */
+    .statistics .statistics-box{
+        padding: 180px 0px;
+        margin-bottom: 30px;
+    }
+    /* Statistics end */
+    /* Popular Package start */
+    .popular-Package-box{
+        margin-bottom: 30px;
+    }
+    .popular-Package-box p{
+        padding: 0px 50px;
+    }
+    /* Popular Package end */
+    /* Barry start */
+    .barry-text p{
+        font-size: 33px;
+    }
+    .barry-text h1{
+        font-size: 48px;
+    }
+    /* Barry end */
+    /* our-update start */
+    .our-update-title h1{
+        font-size: 95px;
+    }
+    .our-update-title p{
+        font-size: 24px;
+    }
+    /* our-update end */
+    /* footer start */
+    .footer .footer-title p{
+        width: 100%;
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .footer .footer-icon{
+        margin-bottom: 60px;
+    }
+    .footer{
+        text-align: center;
+    }
+    .footer .footer-about ul{
+        margin-bottom: 60px;
+    }
+    .footer .footer-services ul{
+        margin-bottom: 60px;
+    }
+    /* footer end */
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    
+    /* CSS */
+    /* header start */
+    .header .navbar-light .navbar-nav .nav-link{
+        margin-left: 0px;
+    }
+    .navbar-collapse{
+        margin-top: 15px;
+    }
+    /* header end */
+    /* our chef start */
+    .our-chef .our-chef-title p{
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .our-chef .our-chef-card{
+        margin-bottom: 30px;
+    }
+    /* our chef end */
+    /* best-burger start */
+    .best-burger-img{
+        text-align: center;
+    }
+    .best-burger-left{
+        text-align: center;
+    }
+    /* best-burger end */
+    /* big-burger start */
+    .big-burger-right{
+        text-align: center;
+        margin-top: 30px;
+    }
+    .big-burger-left{
+        text-align: center;
+    }
+     /* big-burger end */
+     /* Statistics start */
+    .statistics .statistics-box{
+        padding: 180px 0px;
+        margin-bottom: 30px;
+    }
+    /* Statistics end */
+    /* Popular Package start */
+    .popular-Package-box{
+        margin-bottom: 30px;
+    }
+    .popular-Package-box p{
+        padding: 0px 50px;
+    }
+    /* Popular Package end */
+    /* Barry start */
+    .barry-text p{
+        font-size: 33px;
+    }
+    .barry-text h1{
+        font-size: 48px;
+    }
+    /* Barry end */
+    /* our-update start */
+    .our-update-title h1{
+        font-size: 95px;
+    }
+    .our-update-title p{
+        font-size: 24px;
+    }
+    /* our-update end */
+    /* footer start */
+    .footer .footer-title p{
+        width: 100%;
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .footer .footer-icon{
+        margin-bottom: 60px;
+    }
+    .footer{
+        text-align: center;
+    }
+    .footer .footer-about ul{
+        margin-bottom: 60px;
+    }
+    .footer .footer-services ul{
+        margin-bottom: 60px;
+    }
+    /* footer end */
+  }
+  
+  /* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+  
+  @media (min-width: 481px) and (max-width: 767px) {
+    
+    /* CSS */
+    /* header start */
+    .header .navbar-light .navbar-nav .nav-link{
+        margin-left: 0px;
+    }
+    .header .navbar-collapse{
+        margin-top: 15px;
+    }
+    .header .header-banner-inner h1{
+        font-size: 80px;
+    }
+    .header .header-banner-inner p{
+        font-size: 20px;
+    }
+    /* header end */
+    /* our chef start */
+    .our-chef .our-chef-title p{
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .our-chef .our-chef-card{
+        margin-bottom: 30px;
+    }
+    /* our chef end */
+    /* best-burger start */
+    .best-burger-left{
+        text-align: center;
+    }
+     /* best-burger end */
+     /* big-burger start */
+     .big-burger-right{
+        margin-top: 30px;
+    }
+    .big-burger-left{
+        text-align: center;
+    }
+     /* big-burger end */
+     /* Statistics start */
+    .statistics .statistics-box{
+        padding: 90px 0px;
+        margin-bottom: 30px;
+    }
+    /* Statistics end */
+    /* Popular Package start */
+    .popular-Package-box{
+        margin-bottom: 30px;
+    }
+    .popular-Package-box p{
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .popular-Package-box .btn-danger{
+        padding: 15px 100px;
+    }
+    /* Popular Package end */
+    /* Barry start */
+    .barry-text p{
+        font-size: 21px;
+        line-height: 30px;
+    }
+    .barry-text h1{
+        font-size: 30px;
+    }
+    /* Barry end */
+    /* our-update start */
+    .our-update-title h1{
+        font-size: 75px;
+    }
+    .our-update-title p{
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .our-update-form .form-control{
+        padding: 10px 35px;
+    }
+    .our-update-form .btn-primary{
+        padding: 0px 20px;
+    }
+    /* our-update end */
+    /* footer start */
+    .footer .footer-title p{
+        width: 100%;
+        font-size: 21px;
+        line-height: 30px;
+    }
+    .footer .footer-icon{
+        margin-bottom: 60px;
+    }
+    .footer{
+        text-align: center;
+    }
+    .footer .footer-about ul{
+        margin-bottom: 60px;
+    }
+    .footer .footer-services ul{
+        margin-bottom: 60px;
+    }
+    /* footer end */
+  }
+  
+  /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+    
+    /* CSS */
+    /* header start */
+    .header .navbar-light .navbar-nav .nav-link{
+        margin-left: 0px;
+    }
+    .header .navbar-collapse{
+        margin-top: 15px;
+    }
+    .header .header-banner-inner h1{
+        font-size: 54px;
+        line-height: 60px;
+    }
+    .header .header-banner-inner p{
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .header .header-banner-inner .btn-danger{
+        padding: 15px 50px;
+    }
+    /* header end */
+    /* our chef start */
+    .our-chef .our-chef-title p{
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .our-chef .our-chef-card{
+        margin-bottom: 30px;
+    }
+    /* our chef end */
+    /* best-burger start */
+    .best-burger-left{
+        text-align: center;
+    }
+    .best-burger .best-burger-left h1{
+        font-size: 60px;
+    }
+    .best-burger .best-burger-left p{
+        font-size: 20px;
+        line-height: 25px;
+    }
+     /* best-burger end */
+     /* big-burger start */
+     .big-burger-right{
+         margin-top: 30px;
+     }
+     .big-burger-left{
+         text-align: center;
+     }
+     .big-burger-left h1{
+        font-size: 60px;
+     }
+     .big-burger-left p{
+        font-size: 20px;
+        line-height: 25px;
+     }
+     /* big-burger end */
+     /* Statistics start */
+    .statistics .statistics-box{
+        padding: 35px 0px;
+        margin-bottom: 30px;
+    }
+    .statistics-title p{
+        font-size: 20px;
+        line-height: 25px;
+    }
+    /* Statistics end */
+    /* Popular Package start */
+    .popular-Package-box{
+        margin-bottom: 30px;
+    }
+    .popular-Package-box p{
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .popular-Package-box .btn-danger{
+        padding: 15px 75px;
+    }
+    /* Popular Package end */
+    /* Barry start */
+    .barry-text p{
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .barry-text h1{
+        font-size: 20px;
+    }
+    /* Barry end */
+    /* our-update start */
+    .our-update-title h1{
+        font-size: 65px;
+        line-height: 70px;
+    }
+    .our-update-title p{
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .our-update-form .form-control{
+        padding: 10px 20px;
+        font-size: 15px;
+    }
+    .our-update-form .form-control::placeholder{
+        font-size: 15px;
+    }
+    .our-update-form .btn-primary{
+        padding: 0px 20px;
+        font-size: 15px;
+    }
+    /* our-update end */
+    /* footer start */
+    .footer .footer-title p{
+        width: 100%;
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .footer .footer-icon{
+        margin-bottom: 60px;
+    }
+    .footer{
+        text-align: center;
+    }
+    .footer .footer-about ul{
+        margin-bottom: 60px;
+    }
+    .footer .footer-services ul{
+        margin-bottom: 60px;
+    }
+    /* footer end */
+  }
